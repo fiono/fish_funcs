@@ -1,4 +1,4 @@
 function rand_emoji
-  set candidates 🥦 🦋 🐝 🐠 🌸 🍄 🌈 🍉 🌶 🍣 🍬 🎾 🎱 🎏 🕷 🍀 🌴 🥝 🍒 🍓 🍦 🎲
+  set candidates 🦋 🐝 🐠 🌸 🍄 🌈 🍉 🍣 🍬 🎾 🎱 🎏 🍀 🌴 🥝 🍒 🍓 🍦 🎲
   echo (rand_item $candidates)
 end
